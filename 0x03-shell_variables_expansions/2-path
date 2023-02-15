@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH"/action" | egrep /bin 
+echo $PATH"/action" | egrep /bin -u
